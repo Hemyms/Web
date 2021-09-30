@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+
+    background-color: white;
+    font-size-adjust: unset;
+    text-align: center;
+}
+
+p {
+    border-radius: 0.2rem;
+    background-color:rgb(238,130,238);
+    text-align: center;
+
+}
